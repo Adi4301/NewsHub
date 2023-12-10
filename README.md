@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with NewsHub
 
 NewsHub Application allows the user to search trending news according to different categories.
 
